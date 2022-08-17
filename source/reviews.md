@@ -532,5 +532,51 @@ Fourth: Having a Q&A Platform will help you very much in solving any problem you
 <br></br>
 
 
+![Mohammed M. Rizk](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/mohammed-rizk.jpg)
+
+## Mohammed M. Rizk
+## DevOps Engineer/Egypt
+
+I'm Mohammed Rizk, I'm A DevOps Engineer in Webalo.
+
+I've taken thousands of courses before & certificate, probably the same as any tech-savvy engineer.
+Enrolled in a lot of certificates, and read a lot of books as well.
+
+Till I came to the point I decided I will not take a course with anyone again as it was all just commercials, there was no actual knowledge.
+
+Until I came across Mr. Radwan's course, and it was a game changer, Why?
+The reasons are categorized into two categories:
+###### A. Technical Categories:
+* You learn what is a DevOps cycle.
+* You learn the necessary skill to be applied in each phase.
+* You understand the different meanings of DevOps terminology ( There is a lot of terminology in the market that you don't know where to begin ).
+* More Important you will learn when to use those skills and when to not.
+
+###### B. Managerial/ Personal Categories.
+* The fact that Mr. Radwan created a support community for the course is just breath taking, you will find a quality answers and information, and more importantly people ( This idea alone is worth the money you are paying)
+
+* Process, I've never seen a course that has this dedicated process before, a process that is valuable for everyone's time.
+
+* When you see the above two points in action, you just will have to be part of it, even if you don't want to.
+
+* You will learn what is a business and understand that if you are going to do a job with high quality, within a specific time.
+
+* Also, there is the ability to be exposed to different market areas by attending talks of people who are already working in a DevOps role in another country you will never, find this in another course.
+<br/ >
+Special thanks to Mr. Radwan not for the course, but for 
+THE EXPERINCE
+
+
+
+### Connect with Mohammed Rizk : &ensp; 
+<a href="https://www.linkedin.com/in/morizk90/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<br></br>
+
+
+
+
+
 
 
